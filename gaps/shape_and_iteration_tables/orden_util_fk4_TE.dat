@@ -1,0 +1,26 @@
+# Crecimiento interno a igual llenado (2.19 %, igual_n), w <= 2.6
+# forma paso Sigma(FKn) dSigma[%] max|d borde| rel_max[%] n_planas util(dSigma>0.6% o borde>0.006)
+triangulo              FK0->FK1  1.2416   +9.50          0.0806  26.45  3  si
+triangulo              FK1->FK2  1.3030   +4.95          0.0600  27.35  3  si
+triangulo              FK2->FK3  1.3325   +2.26          0.0374  27.86  4  si
+triangulo              FK3->FK4  1.3529   +1.53          0.0195  28.15  5  si
+cuadrado               FK0->FK1  1.1512   +4.81          0.0374  25.15  1  si
+cuadrado               FK1->FK2  1.1866   +3.08          0.0223  25.64  2  si
+cuadrado               FK2->FK3  1.1930   +0.54          0.0100  25.70  2  si
+cuadrado               FK3->FK4  1.2064   +1.12          0.0068  25.92  3  si
+pentagono              FK0->FK1  1.1165   +3.58          0.0237  24.74  1  si
+pentagono              FK1->FK2  1.1401   +2.11          0.0139  24.89  1  si
+pentagono              FK2->FK3  1.1507   +0.94          0.0074  25.20  1  si
+pentagono              FK3->FK4  1.1542   +0.31          0.0040  25.23  1  no
+hexagono               FK0->FK1  1.0982   +2.76          0.0204  24.40  1  si
+hexagono               FK1->FK2  1.1162   +1.65          0.0090  24.74  1  si
+hexagono               FK2->FK3  1.1269   +0.95          0.0056  24.77  1  si
+hexagono               FK3->FK4  1.1333   +0.57          0.0027  24.78  1  no
+rectangulo_horizontal  FK0->FK1  1.1047   +5.13          0.0456  26.07  1  si
+rectangulo_horizontal  FK1->FK2  1.1374   +2.96          0.0301  26.57  1  si
+rectangulo_horizontal  FK2->FK3  1.1597   +1.97          0.0165  26.89  2  si
+rectangulo_horizontal  FK3->FK4  1.1614   +0.15          0.0090  26.95  1  si
+rectangulo_vertical    FK0->FK1  1.2737   +6.66          0.0383  24.87  2  si
+rectangulo_vertical    FK1->FK2  1.3082   +2.71          0.0229  25.06  3  si
+rectangulo_vertical    FK2->FK3  1.3269   +1.42          0.0132  25.33  3  si
+rectangulo_vertical    FK3->FK4  1.3334   +0.50          0.0069  25.32  3  si

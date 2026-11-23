@@ -1,0 +1,31 @@
+# cambio entre iteraciones consecutivas, conjunto L1n2 (w <= 2.6)
+# sentido forma paso dSigma[%] max|d borde| (si no cambia el número) max|d w_plana| planas_nuevas planas_perdidas
+externa  cuadrado               FK0->FK1   +3.21   cambia(7->6) 0.0363 1 1
+externa  cuadrado               FK1->FK2   +1.62   cambia(6->4) 0.0080 0 0
+externa  cuadrado               FK2->FK3   +0.86         0.0094 0.0064 1 0
+externa  cuadrado               FK3->FK4   +0.26         0.0044 0.0008 0 1
+externa  hexagono               FK0->FK1   -0.99         0.0746 0.0746 0 0
+externa  hexagono               FK1->FK2   -0.23         0.0242 0.0242 0 0
+externa  hexagono               FK2->FK3   -0.30         0.0123 0.0123 0 0
+externa  hexagono               FK3->FK4   -0.04         0.0027 0.0027 0 0
+externa  pentagono              FK0->FK1   -0.57         0.0615 0.0613 0 0
+externa  pentagono              FK1->FK2   -0.19         0.0214 0.0214 0 0
+externa  pentagono              FK2->FK3   -0.32         0.0081 0.0079 0 0
+externa  pentagono              FK3->FK4   +0.02         0.0056 0.0055 0 0
+externa  triangulo              FK0->FK1   +8.55         0.0695 0.0083 2 0
+externa  triangulo              FK1->FK2   +2.27         0.0259 0.0075 0 0
+externa  triangulo              FK2->FK3   +0.88         0.0089 0.0027 0 0
+externa  triangulo              FK3->FK4   +0.28         0.0063 0.0032 0 0
+interna  cuadrado               FK0->FK1   -1.09         0.0083 0.0017 0 1
+interna  cuadrado               FK1->FK2   -0.35         0.0048 0.0014 0 0
+interna  cuadrado               FK2->FK3   -0.08         0.0008 0.0003 0 0
+interna  hexagono               FK0->FK1   +0.11         0.0086 0.0084 0 0
+interna  hexagono               FK1->FK2   -0.01         0.0037 0.0037 0 0
+interna  hexagono               FK2->FK3   +0.03         0.0021 0.0018 0 0
+interna  pentagono              FK0->FK1   +0.33         0.0078 0.0076 0 0
+interna  pentagono              FK1->FK2   -0.01         0.0016 0.0016 0 0
+interna  pentagono              FK2->FK3   -0.06         0.0007 0.0007 0 0
+interna  triangulo              FK0->FK1   -1.29         0.0083 0.0009 0 0
+interna  triangulo              FK1->FK2   -0.25         0.0040 0.0002 0 0
+interna  triangulo              FK2->FK3   +0.06         0.0006 0.0001 0 0
+interna  triangulo              FK3->FK4   -0.01         0.0001 0.0000 0 0

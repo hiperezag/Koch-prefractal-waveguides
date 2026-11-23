@@ -1,0 +1,22 @@
+# Dispersión entre formas (máx − mín) de cada cifra a igual variable de control,
+# en la malla común (intersección de rangos). Menor dispersión = la variable explica mejor
+# las diferencias entre formas.
+# grupo cifra variable x_min x_max disp_media disp_max
+seis      sigma    f_ll      0.8226  3.4276  0.152741  0.172053
+seis      sigma    d_pared   1.2100  1.3543  0.346611  0.396296
+seis      sigma    d_vecina  5.5615  5.7832  0.459223  0.482998
+seis      rel_max  f_ll      0.8226  3.4276  0.966022  1.462940
+seis      rel_max  d_pared   1.2100  1.3543  6.003440  6.689148
+seis      rel_max  d_vecina  5.5615  5.7832  3.871890  4.088739
+seis      w1       f_ll      0.8226  3.4276  0.009649  0.015088
+seis      w1       d_pared   1.2100  1.3543  0.025845  0.038457
+seis      w1       d_vecina  5.5615  5.7832  0.011870  0.015018
+regulares sigma    f_ll      0.8226  3.4276  0.059146  0.066874
+regulares sigma    d_pared   0.9458  1.3543  0.264692  0.309209
+regulares sigma    d_vecina  5.0332  5.7832  0.194095  0.224648
+regulares rel_max  f_ll      0.8226  3.4276  0.779793  1.099593
+regulares rel_max  d_pared   0.9458  1.3543  3.543749  4.084819
+regulares rel_max  d_vecina  5.0332  5.7832  2.567996  3.014519
+regulares w1       f_ll      0.8226  3.4276  0.003656  0.006624
+regulares w1       d_pared   0.9458  1.3543  0.016803  0.031343
+regulares w1       d_vecina  5.0332  5.7832  0.013960  0.024244

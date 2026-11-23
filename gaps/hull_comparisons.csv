@@ -1,0 +1,7 @@
+shape,area_retained,inward_FK3_edge_shift,inward_twin_edge_shift,outward_hull_IEM_pct,outward_hull_FEM_pct,outward_twin_IEM_pct,outward_twin_FEM_pct
+triangle,0.4526748971193414,0.0097,0.1664,-1.12,-0.96,0.28,0.27
+square,0.6840017045176127,0.0083,0.083,-0.98,-0.81,1.58,2.23
+pentagon,0.7704137995548411,0.0074,0.0888,-0.93,-0.71,2.23,2.6
+hexagon,0.8175582990397806,0.0067,0.1491,-1.19,-0.62,2.29,2.68
+horizontal_rectangle,0.6351165980795612,0.0112,0.1487,-1.37,-1.0,4.72,4.81
+vertical_rectangle,0.6351165980795609,0.008,0.0623,-0.87,-0.57,-2.31,-2.39
