@@ -1,0 +1,14 @@
+# L1n2_externa_cuadrado_FK4_b91  banda impar (paridad y->pi-y) oculta bajo la b3 par; raíces de n1_cruces (caso FK4_b3)
+# K=0: no separable de la rama par (sigma_min de la impar bajo el piso); valor de un ajuste coseno A-B cos(2 pi K) sobre K>=0.05 (resid 2.2e-06)
+# K_r  w  smin/s1  s(min+1)/s1  contraste  relocalizada
+ 0.000  2.0799011055  nan  nan  nan  2
+ 0.050  2.0799344996  1.498e-05  3.586e-05  nan  0
+ 0.100  2.0800239573  1.495e-05  4.238e-05  nan  0
+ 0.150  2.0801636260  1.492e-05  5.248e-05  nan  0
+ 0.200  2.0803402047  1.487e-05  6.511e-05  nan  0
+ 0.250  2.0805367131  1.483e-05  7.894e-05  nan  0
+ 0.300  2.0807340401  1.480e-05  9.256e-05  nan  0
+ 0.350  2.0809127583  1.477e-05  1.046e-04  nan  0
+ 0.400  2.0810550734  1.475e-05  1.139e-04  nan  0
+ 0.450  2.0811466716  1.474e-05  1.196e-04  nan  0
+ 0.500  2.0811782755  1.473e-05  1.215e-04  nan  0

@@ -1,0 +1,14 @@
+# IL4_interna_rectangulo_horizontal_FK4_igualn_envolvente_b3  superficie 03_fractal_koch_pec/infinito/TE/igual_llenado/ref_triangulo/superficie_interna_rectangulo_horizontal_FK4_igualn_envolvente.dat
+# semilla w0=1.970226263081831 W_barrido=0.026855482305156997 vg_barrido=0.19399156834142456 cobertura=1.0
+# K_r  w  smin/s1  s(min+1)/s1  contraste  relocalizada
+ 0.000  1.9696081228  2.086e-05  1.038e-02  9.978e-02  0
+ 0.050  1.9702615158  2.085e-05  1.034e-02  9.971e-02  0
+ 0.100  1.9721672229  2.084e-05  1.024e-02  9.954e-02  0
+ 0.150  1.9751646429  2.082e-05  1.009e-02  9.928e-02  0
+ 0.200  1.9789953923  2.081e-05  9.882e-03  9.900e-02  0
+ 0.250  1.9833174261  2.082e-05  9.650e-03  9.873e-02  0
+ 0.300  1.9877261019  2.086e-05  9.412e-03  9.850e-02  0
+ 0.350  1.9917843935  2.092e-05  9.195e-03  9.835e-02  0
+ 0.400  1.9950645076  2.100e-05  9.022e-03  9.826e-02  0
+ 0.450  1.9972000899  2.107e-05  8.910e-03  9.822e-02  0
+ 0.500  1.9979415657  2.110e-05  8.872e-03  9.821e-02  0

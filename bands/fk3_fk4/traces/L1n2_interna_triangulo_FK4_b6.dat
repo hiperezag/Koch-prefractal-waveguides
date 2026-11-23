@@ -1,0 +1,14 @@
+# L1n2_interna_triangulo_FK4_b6  superficie 03_fractal_koch_pec/infinito/TE/igual_llenado/ref_triangulo/superficie_interna_triangulo_FK4.dat
+# rehecha (n4_retrazar.py): semilla por K del barrido; w0=2.386302073023242; K=0: la raíz de esta rama (~2.382-2.386 por extrapolación cuadrática) queda bajo el piso de la b7 (2.39879); se deja el valor de la b7; W de esta banda ~0.09 (dispersiva en cualquier caso)
+# K_r  w  smin/s1  s(min+1)/s1  contraste  relocalizada
+ 0.000  2.3987896782  2.805e-06  7.676e-05  2.305e-01  0
+ 0.050  2.3790289473  1.891e-07  7.724e-05  1.204e-02  0
+ 0.100  2.3710077216  2.073e-07  7.864e-05  1.348e-02  0
+ 0.150  2.3599690288  1.727e-07  8.099e-05  1.140e-02  0
+ 0.200  2.3472251421  1.396e-07  8.433e-05  9.270e-03  0
+ 0.250  2.3340365333  1.132e-07  8.871e-05  7.478e-03  0
+ 0.300  2.3215322496  9.152e-08  9.415e-05  5.926e-03  0
+ 0.350  2.3106801641  7.310e-08  1.006e-04  4.578e-03  0
+ 0.400  2.3022864857  5.829e-08  1.079e-04  3.491e-03  0
+ 0.450  2.2969780726  4.853e-08  1.149e-04  2.772e-03  0
+ 0.500  2.2951613277  4.521e-08  1.184e-04  2.519e-03  0

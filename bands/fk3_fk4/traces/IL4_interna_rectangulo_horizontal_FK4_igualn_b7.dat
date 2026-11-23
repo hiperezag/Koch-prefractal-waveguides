@@ -1,0 +1,14 @@
+# IL4_interna_rectangulo_horizontal_FK4_igualn_b7  superficie 03_fractal_koch_pec/infinito/TE/igual_llenado/ref_triangulo/superficie_interna_rectangulo_horizontal_FK4_igualn.dat
+# rehecha (n4_retrazar.py): semilla por K del barrido; w0=2.490327258313525; tramo K=0.15-0.50 rehecho desde el extremo (rama perdida en un cruce)
+# K_r  w  smin/s1  s(min+1)/s1  contraste  relocalizada
+ 0.000  2.4905792317  9.229e-08  8.480e-05  6.951e-03  0
+ 0.050  2.4868254638  9.369e-08  8.464e-05  7.158e-03  0
+ 0.100  2.4767378786  9.499e-08  8.420e-05  7.514e-03  0
+ 0.150  2.4627874023  9.247e-08  8.367e-05  7.626e-03  0
+ 0.200  2.4472664183  8.567e-08  8.317e-05  7.356e-03  0
+ 0.250  2.4318490168  7.597e-08  8.280e-05  6.758e-03  0
+ 0.300  2.4177252981  6.505e-08  8.260e-05  5.958e-03  0
+ 0.350  2.4057860383  5.448e-08  8.257e-05  5.105e-03  0
+ 0.400  2.3967247105  4.567e-08  8.263e-05  4.348e-03  0
+ 0.450  2.3910641578  3.980e-08  8.271e-05  3.826e-03  0
+ 0.500  2.3891386455  3.775e-08  8.274e-05  3.640e-03  0
