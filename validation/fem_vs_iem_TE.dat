@@ -1,0 +1,12 @@
+# TE gap validation on the stored spectra. The order of each A/B pair
+# follows the method labels in its row. Full-window counts cover physical
+# gaps. The gaps_to_2.6, Sigma, and max_edge_diff values use omega_r <= 2.6.
+# The relative Sigma differences are 100 times (B/A - 1).
+externa_triangulo_FK0_L1               FEM h0.08 vs h0.04   full_gaps  9/ 9 gaps_to_2.6 7/7  Sigma 1.1439/1.1431 (-0.07%)  max_edge_diff 0.0006
+externa_triangulo_FK0_L1               FEM h0.04 vs IEM     full_gaps  9/ 9 gaps_to_2.6 7/7  Sigma 1.1431/1.1344 (-0.76%)  max_edge_diff 0.0042
+interna_triangulo_FK3_L1               FEM h0.08 vs h0.04   full_gaps  9/ 9 gaps_to_2.6 7/7  Sigma 1.1264/1.1249 (-0.14%)  max_edge_diff 0.0010
+interna_triangulo_FK3_L1               FEM h0.04 vs IEM     full_gaps  9/ 9 gaps_to_2.6 7/7  Sigma 1.1249/1.1176 (-0.65%)  max_edge_diff 0.0056
+externa_rectangulo_vertical_FK3_2.19   FEM h0.08 vs h0.04   full_gaps  7/ 7 gaps_to_2.6 7/7  Sigma 1.2653/1.2651 (-0.02%)  max_edge_diff 0.0005
+externa_rectangulo_vertical_FK3_2.19   FEM h0.04 vs IEM     full_gaps  7/ 7 gaps_to_2.6 7/7  Sigma 1.2651/1.2617 (-0.27%)  max_edge_diff 0.0042
+externa_hexagono_FK0_L1                FEM h0.08 vs h0.04   full_gaps  6/ 6 gaps_to_2.6 5/5  Sigma 1.3928/1.3928 (+0.00%)  max_edge_diff 0.0001
+externa_hexagono_FK0_L1                FEM h0.04 vs IEM     full_gaps  6/ 6 gaps_to_2.6 5/5  Sigma 1.3928/1.3905 (-0.17%)  max_edge_diff 0.0049

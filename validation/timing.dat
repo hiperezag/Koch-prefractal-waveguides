@@ -1,0 +1,13 @@
+# case method variant elapsed_s peak_memory_kB
+externa_triangulo_FK0 IEM N5=36 hilos=1 24.82 16320
+externa_triangulo_FK0 IEM N5=36 hilos=20 26.55 15940
+externa_triangulo_FK0 FEM h=0.08 hilos=1 144.67 186660
+externa_triangulo_FK0 FEM h=0.04 hilos=1 896.06 648280
+externa_rectangulo_vertical_FK3 IEM N5=512 hilos=1 645.33 34672
+externa_rectangulo_vertical_FK3 IEM N5=512 hilos=20 328.82 31268
+externa_rectangulo_vertical_FK3 FEM h=0.08 hilos=1 141.60 183576
+externa_rectangulo_vertical_FK3 FEM h=0.04 hilos=1 887.96 644616
+externa_hexagono_FK3 IEM N5=768 hilos=1 1653.72 49804
+externa_hexagono_FK3 IEM N5=768 hilos=20 739.14 44600
+externa_hexagono_FK3 FEM h=0.08 hilos=1 142.20 186856
+externa_hexagono_FK3 FEM h=0.04 hilos=1 818.48 634776

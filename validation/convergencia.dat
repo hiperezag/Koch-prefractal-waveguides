@@ -1,0 +1,25 @@
+# forma                  fk   m  nu  L                  N5    N     t[s]
+triangulo               FK1  2    8  1.000000000000000    96   276     80.3
+triangulo               FK1  4   16  1.000000000000000   192   372    157.6
+triangulo               FK2  2    4  1.000000000000000   192   372    256.1
+triangulo               FK2  4    8  1.000000000000000   384   564    430.5
+triangulo               FK3  2    2  1.000000000000000   384   564    427.0
+triangulo               FK3  4    4  1.000000000000000   768   948   7158.7
+rectangulo_horizontal   FK1  2    8  0.866025403784439   104   284     86.2
+rectangulo_horizontal   FK1  4   16  0.866025403784439   200   380     88.5
+rectangulo_horizontal   FK2  2    4  0.866025403784439   224   404     96.3
+rectangulo_horizontal   FK2  4    8  0.866025403784439   416   596    208.3
+rectangulo_horizontal   FK3  2    2  0.866025403784439   384   564    201.2
+rectangulo_horizontal   FK3  4    4  0.866025403784439   896  1076   1015.5
+rectangulo_vertical     FK1  2    8  0.866025403784439   104   284     47.2
+rectangulo_vertical     FK1  4   16  0.866025403784439   200   380     90.9
+rectangulo_vertical     FK2  2    4  0.866025403784439   224   404    102.7
+rectangulo_vertical     FK2  4    8  0.866025403784439   416   596    213.6
+rectangulo_vertical     FK3  2    2  0.866025403784439   384   564    208.5
+rectangulo_vertical     FK3  4    4  0.866025403784439   896  1076   1048.0
+cuadrado                FK1  2    8  0.658037006476246   128   308     51.9
+cuadrado                FK1  4   16  0.658037006476246   256   436    127.2
+cuadrado                FK2  2    4  0.658037006476246   256   436    127.7
+cuadrado                FK2  4    8  0.658037006476246   512   692    331.3
+cuadrado                FK3  2    2  0.658037006476246   512   692    328.4
+cuadrado                FK3  4    4  0.658037006476246  1024  1204   1419.9
