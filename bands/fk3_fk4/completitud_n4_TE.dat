@@ -1,0 +1,19 @@
+# N4: raíces en K=0 y 0.5 que el barrido de bandas no tenía (σ_min paso 5e-4 en ±0.012 de cada banda)
+# conj tag K w contraste
+IL4 interna_triangulo_FK4_igualn_envolvente ninguna
+IL4 interna_cuadrado_FK4_igualn_envolvente ninguna
+IL4 interna_pentagono_FK4_igualn_envolvente ninguna
+IL4 interna_hexagono_FK4_igualn_envolvente ninguna
+IL4 interna_rectangulo_horizontal_FK4_igualn_envolvente ninguna
+IL4 interna_rectangulo_vertical_FK4_igualn_envolvente ninguna
+L1n2 externa_triangulo_FK4 ninguna
+L1n2 externa_cuadrado_FK4 0.5 2.08117827 0.37
+L1n2 externa_pentagono_FK4 ninguna
+L1n2 externa_hexagono_FK4 ninguna
+L1n2 interna_triangulo_FK4 ninguna
+IL4 interna_triangulo_FK4_igualn ninguna
+IL4 interna_cuadrado_FK4_igualn ninguna
+IL4 interna_pentagono_FK4_igualn ninguna
+IL4 interna_hexagono_FK4_igualn ninguna
+IL4 interna_rectangulo_horizontal_FK4_igualn ninguna
+IL4 interna_rectangulo_vertical_FK4_igualn ninguna

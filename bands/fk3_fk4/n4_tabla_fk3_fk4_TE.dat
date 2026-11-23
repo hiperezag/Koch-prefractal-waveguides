@@ -1,0 +1,14 @@
+# N4: crecimiento interno a 2.19 % (igual_n), paso FK3 -> FK4, w <= 2.6; barrido frente a bordes de las trazas de 11 K
+# forma modo dSigma_env[%] borde_env dSigma_pref[%] borde_pref pref_vs_env_FK3[%] pref_vs_env_FK4[%] Sigma_FK4 n_prohibidas_FK4
+triangulo              barrido  +1.31 0.0208  +1.53 0.0195  -1.03  -0.81 1.3529 7
+triangulo              traza    +0.84 0.0198  +0.94 0.0185  -1.01  -0.91 1.3475 7
+cuadrado               barrido  +0.74 0.0064  +1.12 0.0068  -1.54  -1.16 1.2064 7
+cuadrado               traza    +0.62 0.0060  +0.62 0.0057  -1.17  -1.17 1.2066 7
+pentagono              barrido  -0.06 0.0029  +0.31 0.0040  -1.46  -1.10 1.1542 7
+pentagono              traza    +0.43 0.0035  +0.42 0.0033  -1.04  -1.05 1.1581 7
+hexagono               barrido  +0.42 0.0031  +0.57 0.0027  -0.98  -0.84 1.1333 7
+hexagono               traza    +0.33 0.0025  +0.32 0.0023  -0.96  -0.98 1.1342 7
+rectangulo_horizontal  barrido  +1.08 0.0092  +0.15 0.0090  -1.67  -2.58 1.1614 6
+rectangulo_horizontal  traza    +0.77 0.0087  +0.74 0.0082  -1.97  -2.00 1.1645 6
+rectangulo_vertical    barrido  +0.44 0.0060  +0.50 0.0069  -0.53  -0.48 1.3334 7
+rectangulo_vertical    traza    +0.58 0.0062  +0.59 0.0057  -0.37  -0.36 1.3359 7
