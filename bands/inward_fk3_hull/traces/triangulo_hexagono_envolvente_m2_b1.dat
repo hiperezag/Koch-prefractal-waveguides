@@ -1,0 +1,5 @@
+# triangulo_hexagono_envolvente_m2_b1  superficie 03_fractal_koch_pec/infinito/TE/n5/geom/triangulo_hexagono_envolvente_m2/superficie.dat
+# semilla w0=1.135487465493612 W_barrido=0.005894587087885039
+# K_r  w  smin/s1  s(min+1)/s1  contraste  relocalizada
+ 0.000  1.1359850589  4.629e-05  5.052e-03  1.384e-01  0
+ 0.500  1.1400758241  3.907e-05  4.317e-03  1.308e-01  0
