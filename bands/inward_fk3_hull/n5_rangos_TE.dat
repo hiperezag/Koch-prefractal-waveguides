@@ -1,0 +1,22 @@
+# N5: rango de W_FK3/W_envolvente por nivel (sólo min(W_FK3, W_env) >= 1e-5; m = 1 y m = 2)
+# nivel forma n_bandas min max | m2: min max
+2.19 cuadrado               4 1.068 1.081 | 1.069 1.083
+2.19 hexagono               4 1.045 1.054 | 1.044 1.053
+2.19 pentagono              4 1.053 1.063 | 1.053 1.063
+2.19 rectangulo_horizontal  4 1.098 1.111 | 1.097 1.111
+2.19 rectangulo_vertical    4 1.057 1.087 | 1.061 1.090
+2.19 triangulo              4 1.149 1.185 | 1.157 1.181
+2.19 TODAS                  24 1.045 1.185 | 1.044 1.181
+5.07 cuadrado               5 1.168 1.194 | 1.169 1.195
+5.07 hexagono               4 1.104 1.115 | 1.101 1.112
+5.07 pentagono              4 1.128 1.140 | 1.126 1.138
+5.07 rectangulo_horizontal  4 1.241 1.285 | 1.240 1.280
+5.07 rectangulo_vertical    4 1.168 1.222 | 1.177 1.232
+5.07 triangulo              4 1.322 1.566 | 1.387 1.604
+5.07 TODAS                  25 1.104 1.566 | 1.101 1.604
+8.72 cuadrado               4 1.291 1.488 | 1.360 1.457
+8.72 hexagono               4 1.208 1.235 | 1.206 1.225
+8.72 pentagono              4 1.250 1.311 | 1.263 1.297
+8.72 rectangulo_horizontal  5 1.392 1.757 | 1.446 1.735
+8.72 TODAS                  17 1.208 1.757 | 1.206 1.735
+8.72 no resueltas (W < 1e-5): rectangulo_vertical b1, rectangulo_vertical b2, rectangulo_vertical b3, rectangulo_vertical b4, rectangulo_vertical b91
